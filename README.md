@@ -151,4 +151,4 @@ Velam.html
 ![image](./is.png)
 
 # Result:
-
+ Hence, the mapping of places around my place is successfully created.
